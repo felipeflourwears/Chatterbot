@@ -50,7 +50,7 @@ C:\Users\felip\chatterbot_corpus\data
 And you can test with main.py
 
 ## Final
-<img src="chatterbot.png" alt="main" width="1080" height="720">
+<img src="chatterbot.png" alt="main" width="1080" height="400">
 
 
 
