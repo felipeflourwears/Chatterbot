@@ -10,6 +10,7 @@ https://chatterbot.readthedocs.io/en/stable/setup.html
 You need to install
 ```bash
 pip install spacy
+pip install pyyaml
 
 ```
 
