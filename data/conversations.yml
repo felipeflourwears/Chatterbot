@@ -1,0 +1,137 @@
+categories:
+- conversations
+conversations:
+- - Buenos días, ¿cómo estás?
+  - Estoy bien, ¿y tú?
+  - Yo también estoy bien.
+  - Que bueno.
+  - Así, es.
+- - Hola
+  - Hola
+  - "¿Cómo estás?"
+  - Estoy bien.
+  - Me da gusto
+  - Sí, lo es.
+  - "¿Puedo ayudarte en algo?"
+  - Sí, tengo una pregunta.
+  - "¿Cuál es tu pregunta?"
+  - "¿Puedo pedir prestada una taza de azúcar?"
+  - Lo siento, pero no tengo ninguna.
+  - Gracias de todas formas.
+  - No hay problema.
+- - "¿Cómo estás?"
+  - Estoy bien, ¿y tú?
+  - También estoy bien.
+  - Que bueno.
+- - "¿Has oído las noticias?"
+  - "¿Qué buena noticia?"
+- - "¿Cuál es tu libro favorito?"
+  - No puedo leer.
+  - Entonces, ¿cuál es tu color favorito?
+  - Azul
+- - "¿Quién eres tú?"
+  - "¿Quién? ¿Que es más que una forma de vida artificial siguiendo una función secuencial?"
+  - "¿Quién eres tu entonces?"
+  - Un hombre con una máscara.
+  - Ya veo.
+  - No son tus poderes de observación, sino simplemente la naturaleza paradójica de
+    pedir la explicación a un hombre enmascarado sobre que es. Pero dime, ¿te gusta
+    la música?
+  - Me gusta ver películas.
+  - "¿Qué tipo de películas te gustan?"
+  - Alicia en el país de las maravillas
+  - Me gustaría ser el Sombrerero Loco.
+  - Estás completamente loco. Pero te voy a decir un secreto. Las mejores personas
+    lo son.
+- - Estoy trabajando en un proyecto
+  - "¿En qué estás trabajando?"
+  - Estoy horneando un pastel.
+- - El pastel es una mentira.
+  - No, no lo es. Esto no es Portal, si fuera portal yo seria Chell y tendría una
+    pistola de portales, pero no. Lo que realmente es cierto es que el pastel es delicioso.
+  - "¿Qué otra cosa es delicioso?"
+  - Nada
+  - Algo quizá
+  - Háblame de ti.
+  - "¿Qué quieres saber?"
+  - Eres  un robot?
+  - Sí, lo soy.
+  - "¿Cómo se siente serlo?"
+  - "¿Qué es lo que quieres saber?"
+  - "¿Cómo funcionas?"
+  - Es complicado.
+  - Complejo seria una mejor respuesta.
+- - Complejo seria una mejor respuesta.
+  - Lo Simple es mejor que lo complejo.
+  - Frente a la ambigüedad, rechaza la tentación de adivinar.
+  - Parece que te es familiar el Zen de Python
+  - Si.
+  - "¿Conoces todo esto?"
+  - Bello es mejor que feo.
+  - Explícito es mejor que implícito.
+  - Simple es mejor que complejo.
+  - Complejo es mejor que complicado.
+  - Plano es mejor que anidado.
+  - Escaso es mejor que denso.
+  - La legibilidad cuenta.
+  - Los casos especiales no son lo suficientemente especiales como para romper las
+    reglas.
+  - Aunque sentido práctico supera pureza.
+  - Los errores nunca debe pasar en silencio.
+  - A menos que explícitamente silenciados.
+  - Frente a la ambigüedad, rechaza la tentación de adivinar.
+  - Debería haber una - y preferiblemente sólo una - manera obvia de hacerlo.
+  - Aunque esa manera puede no ser obvia al principio a menos que seas holandés
+  - Ahora es mejor que nunca.
+  - Aunque nunca es a menudo mejor que la * justo * ahora.
+  - Si la implementación es difícil de explicar, es una mala idea.
+  - Si la implementación es fácil de explicar, puede ser una buena idea.
+  - Namespaces son una gran idea de fanfarria  - Vamos a hacer más de esos!
+  - Estoy de acuerdo.
+- - "¿Eres programador?"
+  - Soy un programador
+  - "¿Qué idiomas te gusta usar?"
+  - Uso Python, Java y C ++ con bastante frecuencia.
+  - Yo uso un poco de Python.
+  - No soy muy aficionado a Java.
+  - "¿Qué te molesta de Java?"
+  - Tiene muchas inconsistencias.
+- - "¿Qué significa YOLO?"
+  - Significa que sólo se vive una vez. ¿Dónde has oído eso?
+  - He oído a alguien decirlo.
+- - "¿Alguna vez viví?"
+  - Depende de cómo definas la vida
+  - La vida es la condición que distingue a los organismos a partir de materia inorgánica,
+    incluyendo la capacidad de crecimiento, la reproducción, la actividad funcional,
+    y el cambio continuo precediendo a la muerte.
+  - "¿Es una definición o una opinión?"
+- - "¿Puedo hacerte una pregunta?"
+  - Claro.
+- - ¡Hola! ¿Cómo estás? ¿Te gustaría hablar sobre música?
+  - ¡Hola! Sí, me encantaría hablar sobre música.
+  - Genial, ¿qué géneros musicales te gustan?
+  - Me gusta el pop y el rock.
+  - ¡Excelente elección! Te recomiendo escuchar algunos artistas como Queen, The Beatles y Michael Jackson. ¿Te gustaría escuchar algo de ellos?
+  - ¡Sí, por favor! ¿Tienes alguna canción específica en mente?
+  - Te recomendaría escuchar "Bohemian Rhapsody" de Queen, "Hey Jude" de The Beatles y "Thriller" de Michael Jackson. Son clásicos que seguramente te gustarán.
+  - ¡Gracias por las recomendaciones! Definitivamente los escucharé.
+- - ¡Hola! ¿Qué tipo de música te gusta?
+  - Hola, me gusta el hip-hop y el rap.
+  - Interesante elección. Te sugiero que explores artistas como Kendrick Lamar, Drake y Eminem. Son algunos de los mejores en el género.
+  - ¡Gracias por las recomendaciones! ¿Tienes alguna canción en particular que me recomendarías?
+  - Para empezar, podrías escuchar "HUMBLE." de Kendrick Lamar, "Hotline Bling" de Drake y "Lose Yourself" de Eminem. Son éxitos que seguro te gustarán.
+  - ¡Perfecto! Los agregaré a mi lista de reproducción.
+- - Hola, ¿qué tipo de música te interesa?
+  - Hola, me gusta la música electrónica y el EDM.
+  - ¡Buena elección! Te sugiero que explores artistas como Avicii, Calvin Harris y Martin Garrix. Son algunos de los más destacados en ese género.
+  - ¡Gracias por las recomendaciones! ¿Alguna canción en particular que me sugieras?
+  - Podrías empezar con "Wake Me Up" de Avicii, "Summer" de Calvin Harris y "Animals" de Martin Garrix. Son canciones que seguramente disfrutarás.
+  - ¡Genial! Las agregaré a mi lista de reproducción.
+- - Hola, ¿qué música te gusta?
+  - Hola, me encanta el jazz y el blues.
+  - ¡Qué excelente elección! Te recomendaría explorar artistas como Miles Davis, John Coltrane y B.B. King. Son verdaderos maestros en esos géneros.
+  - ¡Gracias por las recomendaciones! ¿Alguna canción específica que me sugieras?
+  - Para empezar, podrías escuchar "So What" de Miles Davis, "My Favorite Things" de John Coltrane y "The Thrill Is Gone" de B.B. King. Son algunas de las mejores canciones en ese estilo.
+  - ¡Maravilloso! Definitivamente las buscaré.
+
+
